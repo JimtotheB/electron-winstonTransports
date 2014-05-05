@@ -1,0 +1,31 @@
+{
+  "name": "electron-winstontransports",
+  "version": "0.0.1",
+  "description": "Moves Winston loggers boilerplate out of sight.",
+  "author": "Jim Bulkowski",
+  "email": "monstertke@paperelectron.com",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "winston",
+    "logging"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaperElectron/electron-winstonTransports"
+  },
+  "bugs": {
+    "url": "https://github.com/PaperElectron/electron-winstonTransports/issues"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "mkdirp": "^0.4.1",
+    "winston": "^0.7.3"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "should": "^3.3.1"
+  }
+}
