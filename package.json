@@ -21,12 +21,12 @@
     "test": "make test"
   },
   "dependencies": {
-    "mkdirp": "~0.4.1",
-    "winston": "~0.7.3"
+    "mkdirp": "^0.4.1",
+    "winston": "^0.7.3"
 
   },
   "devDependencies": {
-    "mocha": "~1.18.2",
-    "should": "~3.3.1"
+    "mocha": "^1.18.2",
+    "should": "^3.3.1"
   }
 }
