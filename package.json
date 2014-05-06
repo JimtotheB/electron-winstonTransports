@@ -21,9 +21,8 @@
     "test": "make test"
   },
   "dependencies": {
-    "npm": "~1.4.10",
-    "mkdirp": "^0.4.1",
-    "winston": "^0.7.3"
+    "mkdirp": "~0.4.1",
+    "winston": "~0.7.3"
 
   },
   "devDependencies": {
